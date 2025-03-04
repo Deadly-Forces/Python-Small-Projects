@@ -7,9 +7,6 @@ This is a simple encryption and decryption program written in Python. It uses a 
 - Ability to encrypt and decrypt text messages.
 - Uses Python's `random` and `string` modules.
 
-## Requirements
-- Python 3.x
-
 ## How It Works
 1. The program generates a shuffled key mapping for encryption.
 2. The user enters a message to encrypt.
@@ -20,7 +17,7 @@ This is a simple encryption and decryption program written in Python. It uses a 
 
 ### Running the Program
 ```bash
-python encrypt_decrypt.py
+python encryption.py
 ```
 
 ### Example
